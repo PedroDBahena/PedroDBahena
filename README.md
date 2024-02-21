@@ -1,4 +1,4 @@
-### Hello, I'm Pedro
+<h1 align="center">Hi 👋, I'm PEDRO DE LEÓN</h1>
 
 ### About Me
 
