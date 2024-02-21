@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro
 
-### About Me (English)
+### About Me
 
 I'm Full Stack developer with experience in frontend using Angular and Vue, and backend development with Node.js (Express.js) and PHP (Laravel). My focus includes creating engaging interfaces and building efficient backend applications. I also have experience with relational databases, particularly MySQL.
 
