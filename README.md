@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Pedro</h1>
+<h1 align="center">Hello, I'm Pedro</h1>
 
 ### About Me
 
